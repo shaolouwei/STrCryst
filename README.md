@@ -1,5 +1,5 @@
-# STrCryst
-The slip trace crystallography (STrCryst) toolbox is developed for crystallographic analysis for plastically deformed metallic materials.
+# About STrCryst
+The slip trace crystallography (STrCryst) toolbox is developed for crystallographic study of plastically deformed metallic materials.
 
 # Why we developed this software
 Metals and alloys undergo plastic deformation once the external load exceeds their yield strengths. One of the conspicuous features resulting from this, are the surface steps produced by various deformation micro-events, such as dislocation slip, mechanical twinning, or displacive phase transformations. In a microscopic viewpoint, these surface steps are the intersections between crystallographic planes on which plasticity mechanisms take place and the sample’s surface plane. This kind of intrinsic correlation motivates the design of this STrCryst toolbox, in a sense to enable quantitative crystallographic analysis of plastic deformation micro-mechanisms.
